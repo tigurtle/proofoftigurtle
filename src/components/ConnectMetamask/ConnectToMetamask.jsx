@@ -72,12 +72,6 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
             Tigurtle represents a remarkable leap forward in blockchain technology, driven by the synergy of Artificial Intelligence, the strength of the Tiger, and the consistency of the Turtle. As this next-generation blockchain matures, it will unlock a myriad of possibilities across various industries, paving the way for a smarter, more secure, and interconnected world. Embrace the future with Tigurtle and be a part of the revolutionary transformation in blockchain technology!
           </p>
         </div>
-        <hr className="my-4" />
-        <input type="text" value={value} onChange={e => setValue(e.target.value)} placeholder="Enter message here" style={{width: '100%'}} />
-
-        <br className="my-2" />
-        <br className="my-2" />
-        <button onClick={handleClick}>Publish</button>
 
         <hr className="my-4" />
         <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x5dc653d6d0f10cf748f498015a8e11710dcb7db0" >
