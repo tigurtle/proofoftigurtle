@@ -37,7 +37,9 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         </h1>
         <hr className="my-4" />
         <div>
-          <h1>Welcome to Tigurtle: The Next Generation Blockchain Powered by Artificial Intelligence - Tiger and Turtle</h1>
+          <h1>
+          The Next Generation Blockchain, Infused with the Spirit of Tiger and Turtle, Powered by AI Code Generation!
+          </h1>
           <p>
             Introducing the future of blockchain technology - Tigurtle! Combining the powerful forces of Artificial Intelligence (AI) with the remarkable attributes of Tiger and Turtle, Tigurtle is set to revolutionize the way we perceive and interact with blockchain systems.
           </p>
