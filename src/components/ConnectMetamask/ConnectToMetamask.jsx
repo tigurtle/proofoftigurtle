@@ -79,7 +79,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
 
         <hr className="my-4" />
         <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x5dc653d6d0f10cf748f498015a8e11710dcb7db0" >
-          <img src="images/frogdoglogo.jpeg" width="100%" alt="Bnetly" />
+          <img src="images/logo.png" width="100%" alt="Bnetly" />
         </a>
         <hr className="my-4" />
         <button
