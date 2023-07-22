@@ -76,7 +76,7 @@ const AccountDetails = ({ accountAddress, accountBalance }) => {
                           <li>Provide concise AI instruction, like "Create a tweeter post about Tigurtle taking over the world of blockchain."</li>
                           <li>Click "Publish" and let AI handle the rest!</li>
                         </ol>
-                        <p>Unleash the power of AI on your Tigurtle-owned social media accounts now!</p>
+                        <p>Unleash the power of AI on our @Tigurtle social media accounts now!</p>
                       </div>
                       <input type="text" value={value} onChange={e => setValue(e.target.value)} placeholder="Enter message here" style={{width: '100%'}} />
 
